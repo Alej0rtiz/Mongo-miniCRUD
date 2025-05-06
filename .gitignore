@@ -1,0 +1,8 @@
+# Ignore node_modules en cualquier subcarpeta
+**/node_modules/
+
+# Ignore archivos .env en cualquier subcarpeta
+**/.env
+
+# Cache de VSCode
+.vscode/
