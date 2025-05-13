@@ -56,6 +56,7 @@ Este debería iniciar en "http://localhost:PORT"
     ```html
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     ```
+    
     Este método es ideal en pruebas y prototipos rapidos.
 
     - Si prefieres usar Tailwind con PostCSS o CLI, ejecuta:
